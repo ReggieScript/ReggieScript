@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Reggie. Im currently going through a Bachelors Degree in Biomedical Engineering.
+- 👋 Hi, I’m Reggie. Im currently going through my last semester in my Bachelors Degree in Biomedical Engineering at Tecnologico de Monterrey.
 - 👀 I’m interested in data science, bioinformatics, creating and generating continous ideas.
-- 🌱 I’m currently learning machine learning, Python, front-end, back end.
+- 🌱 I’m currently learning machine data science, python, css, javascript.
 - 💞️ I’m looking to collaborate on anything I can help with!
 - 📫 Contact: regina.crespo.018@gmail.com
 
